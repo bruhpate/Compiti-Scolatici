@@ -1,0 +1,3 @@
+Salvini;123;3if;11/09/2022;True
+Pieto;123;123;123;True
+s;1;1-2-3-4;Dolce;True

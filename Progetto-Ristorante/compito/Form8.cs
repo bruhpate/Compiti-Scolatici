@@ -47,8 +47,7 @@ namespace compito
                 }
             }
             sr1.Close();
-            s = File.WriteAllText("./menu.txt", stampatutto);
-            
+            File.WriteAllText("./menu.txt", stampatutto);
             this.Close();
         }
     }

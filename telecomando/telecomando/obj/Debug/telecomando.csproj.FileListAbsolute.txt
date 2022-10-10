@@ -1,0 +1,11 @@
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\bin\Debug\telecomando.exe.config
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\bin\Debug\telecomando.exe
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\bin\Debug\telecomando.pdb
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.csproj.AssemblyReference.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.csproj.SuggestedBindingRedirects.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.Form1.resources
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.Properties.Resources.resources
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.csproj.GenerateResource.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.csproj.CoreCompileInputs.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.exe
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\telecomando\telecomando\obj\Debug\telecomando.pdb

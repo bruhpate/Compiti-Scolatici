@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ld0k2od/qfqQl8o1PBqv2mlrMKcJ4pGHg/gqTrTZQUlNy5SLpYL53ssyxv9ZYT9NmRQD2UfjbgjjR3QPo8QUFg==",
+  "success": true,
+  "projectFilePath": "/home/pietro/Documenti/programmi/verifica_implementazione/verifica_implementazione.csproj",
+  "expectedPackageFiles": [
+    "/home/pietro/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

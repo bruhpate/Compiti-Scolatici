@@ -1,0 +1,8 @@
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\bin\Debug\controllocarta.exe.config
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\bin\Debug\controllocarta.exe
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\bin\Debug\controllocarta.pdb
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\obj\Debug\controllocarta.csproj.AssemblyReference.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\obj\Debug\controllocarta.csproj.SuggestedBindingRedirects.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\obj\Debug\controllocarta.csproj.CoreCompileInputs.cache
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\obj\Debug\controllocarta.exe
+C:\Users\patelli.19326\Desktop\Compiti-Scolastici\controllocarta\controllocarta\obj\Debug\controllocarta.pdb

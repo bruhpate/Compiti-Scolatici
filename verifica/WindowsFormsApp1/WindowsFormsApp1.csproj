@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{33A143FA-9C8F-42F4-9146-B1A5B28AAF81}</ProjectGuid>
+    <ProjectGuid>{1734C586-2165-4BB3-8ACD-C6AD41FCBB87}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Esercizio_ecommerce</RootNamespace>
-    <AssemblyName>Esercizio ecommerce</AssemblyName>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Prodotto.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -10,10 +10,15 @@ namespace controllocarta
     {
         static void Main(string[] args)
         {
-            long code = 4716435917330099;
+            long code = 4124242614081242;
             CartaDiCredito carta = new CartaDiCredito(code);
-            Console.WriteLine(carta.IsValid());
-            carta.Generate();
+            Console.WriteLine("Metodo IsValid...");
+            Console.WriteLine(carta.IsValid()); //va
+            Console.WriteLine("Metodo GeneraNumeroValido...");
+            Console.WriteLine(carta.GeneraNumeroValido()); //va
+            Console.WriteLine("Metodo Confronta...");
+            Console.WriteLine(carta.Confronta(0000000000000000));
+            
         }
     }
 }
